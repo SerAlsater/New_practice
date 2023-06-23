@@ -1,0 +1,52 @@
+.login {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #E2FDFF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 20px;
+    border: #5465FF solid 2px;
+
+}
+
+.input_data {
+    padding: 10px;
+}
+
+.input_data p {
+    font-size: 35px;
+    margin-top: 40px;
+    font-weight: 600;
+}
+
+.input_data input {
+    margin-top: 50px;
+    padding-left: 20px;
+    width: 50%;
+    height: 40px;
+    font-size: 25px;
+    border: solid 2px #5465FF;
+    border-radius: 7px;
+}
+
+.input_data input:focus {
+    outline: none;
+}
+
+.input_password {
+    margin-bottom: 60px;
+}
+
+.login_button {
+    color: #E2FDFF;
+    font-size: 25px;
+
+    background-color: #F66C51;
+    width: 53%;
+    height: 50px;
+
+    border-radius: 10px;
+    margin-bottom: 50px;
+    border:none;
+}

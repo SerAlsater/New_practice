@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.name {
+    text-align: center;
+    font-size: 50px;
+}
+
+.description {
+    text-align: center;
+    font-size: 20px;
+    margin: 20px auto;
+    width: 60%;
+}
+
+.employees_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+}
+
+.title {
+    text-align: center;
+}
